@@ -1,8 +1,12 @@
 # YouTube UI Clone (CSS Focus)
 
+<img src="preview.png" alt="Website Preivew">
+
+<br>
+
 A static frontend project focused on replicating the YouTube homepage layout using pure **HTML and CSS**. This project demonstrates the ability to build complex, fixed-position layouts and responsive grids.
 
-🔗 **[Live Preview](https://afsal4.github.io/YouTube/)**
+🔗 **[Live Website](https://afsal4.github.io/YouTube/)**
 
 ## 📂 File Structure
 
